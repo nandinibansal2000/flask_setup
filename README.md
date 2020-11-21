@@ -33,11 +33,7 @@ To get a local copy up and running follow these simple example steps.
 ```sh
 git clone https://github.com/nandinibansal2000/flask_setup.git
 ```
-2. Run the following command to install all the required packages.
-```sh
-pip install -r requirements.txt 
-```
-3.  Run the following command to run the code on localhost.
+2.  Run the following command to run the code on localhost.
 ```sh
 python3 __init__.py
 ```
