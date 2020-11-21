@@ -1,4 +1,4 @@
-# flask_setup
+# Flask Setup
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
